@@ -13,24 +13,23 @@
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/SaraNaifAljohani/Fraud-Detection-Analysis-Project" style="display: block; padding: 20px; text-decoration: none; color: inherit;">
-<h3>🚨 Fraud Detection Analysis</h3>
-<p>This project explores techniques for detecting fraudulent transactions using unsupervised learning and anomaly detection methods. The goal is to practice data analysis, preprocessing, clustering, and anomaly detection techniques on financial transaction data.</p>
-<p>
-<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
-<img src="https://img.shields.io/badge/Data%20Analysis-ffe199?style=for-the-badge" alt="Data Analysis Badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-3571A1?style=for-the-badge&logo=neural-network&logoColor=white" alt="Machine Learning Badge">
-</p>
-</a>
+  <h3><a href="https://github.com/SaraNaifAljohani/Fraud-Detection-Analysis-Project">🚨 Fraud Detection Analysis</a></h3>
+  <p>This project explores techniques for detecting fraudulent transactions using unsupervised learning and anomaly detection methods. The goal is to practice data analysis, preprocessing, clustering, and anomaly detection techniques on financial transaction data.</p>
+  <p>
+    <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
+    <img src="https://img.shields.io/badge/Data%20Analysis-ffe199?style=for-the-badge" alt="Data Analysis Badge">
+    <img src="https://img.shields.io/badge/Machine%20Learning-3571A1?style=for-the-badge&logo=neural-network&logoColor=white" alt="Machine Learning Badge">
+  </p>
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/SaraNaifAljohani/Goodreads-Dashboard" style="display: block; padding: 20px; text-decoration: none; color: inherit;">
-<h3>📚 Goodreads Dashboard</h3>
-<p>The dashboard walks through my reading journey, from book length and language distributions, to the authors I return to again and again. It highlights my favorite genres, and how my habits shift from year to year.</p>
-<p>
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge">
-</p>
-</a>
+  <h3><a href="https://github.com/SaraNaifAljohani/Goodreads-Dashboard">📚 Goodreads Dashboard</a></h3>
+  <p>The dashboard walks through my reading journey, from book length and language distributions, to the authors I return to again and again. It highlights my favorite genres, and how my habits shift from year to year.</p>
+  <p>
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge">
+  </p>
+</td>
+</tr>
+</table>
 </td>
 </tr>
 </table>
