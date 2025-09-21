@@ -31,7 +31,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaraNaifAljohani/Mental-Health-and-Tech-Usage-Analysis">📊 Mental-Health-and-Tech-Usage-Analysis</a></h3>
+      <h3><a href="https://github.com/SaraNaifAljohani/Mental-Health-and-Tech-Usage-Analysis">📊 Mental Health and Tech Usage Analysis</a></h3>
       <p>This project explores the relationship between mental health and technology usage by applying machine learning techniques such as regression, classification, clustering, and anomaly detection.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
@@ -40,7 +40,7 @@
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaraNaifAljohani/Educational-Institution-Database-Design-and-Management">⚙️ Educational-Institution-Database-Design-and-Management</a></h3>
+      <h3><a href="https://github.com/SaraNaifAljohani/Educational-Institution-Database-Design-and-Management">⚙️ Educational Institution Database Design and Management</a></h3>
       <p>This project entails creating a relational database for an educational institution to manage and track entities. The aim is to establish a robust system that ensures data integrity according to defined business rules.</p>
       <p>
          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
