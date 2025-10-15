@@ -14,7 +14,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaraNaifAljohani/Classifying-Math-Problems-Project">🔢 Classifying Math Problems </a></h3>
-      <p>Implementing a NLP classification system designed to automatically categorize math word problems into one of 8 distinct academic categories (e.g., Algebra, Geometry, Arithmetic).</p>
+      <p>Implementing an NLP classification system designed to automatically categorize math word problems into one of 8 distinct academic categories (e.g., Algebra, Geometry, Arithmetic).</p>
       <p>
       <img src="https://img.shields.io/badge/HuggingFace-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Badge">
       <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
@@ -23,7 +23,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaraNaifAljohani/Goodreads-Dashboard">📚 Goodreads Dashboard</a></h3>
-      <p>The dashboard walks through my reading journey, from book length and language distributions, to the authors I return to again and again. It highlights my favorite genres, and how my habits shift from year to year.</p>
+      <p>Developing a dynamic Power BI dashboard for comprehensive analysis of personal reading data. Metrics include book length, language distribution, genre popularity, and year-over-year habit shifts</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge">
       </p>
