@@ -13,12 +13,12 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SaraNaifAljohani/Fraud-Detection-Analysis-Project">🚨 Fraud Detection Analysis</a></h3>
-      <p>This project explores techniques for detecting fraudulent transactions using unsupervised learning and anomaly detection methods. The goal is to practice data analysis, preprocessing, clustering, and anomaly detection techniques on financial transaction data.</p>
+      <h3><a href="https://github.com/SaraNaifAljohani/Classifying-Math-Problems-Project">🔢 Classifying Math Problems </a></h3>
+      <p>Implementing a NLP classification system designed to automatically categorize math word problems into one of 8 distinct academic categories (e.g., Algebra, Geometry, Arithmetic).</p>
       <p>
-        <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
-        <img src="https://img.shields.io/badge/Data%20Analysis-ffe199?style=for-the-badge" alt="Data Analysis Badge">
-        <img src="https://img.shields.io/badge/Machine%20Learning-3571A1?style=for-the-badge&logo=neural-network&logoColor=white" alt="Machine Learning Badge">
+      <img src="https://img.shields.io/badge/HuggingFace-FFC107?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace Badge">
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch Badge">
+      <img src="https://img.shields.io/badge/Natural%20Language%20Processing-4E79A7?style=for-the-badge&logo=openai&logoColor=white" alt="NLP Badge">
       </p>
     </td>
     <td width="50%" valign="top">
@@ -32,7 +32,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaraNaifAljohani/Mental-Health-and-Tech-Usage-Analysis">📊 Mental Health and Tech Usage Analysis</a></h3>
-      <p>This project explores the relationship between mental health and technology usage by applying machine learning techniques such as regression, classification, clustering, and anomaly detection.</p>
+      <p>Exploring the relationship between mental health and technology usage by applying machine learning techniques such as regression, classification, clustering, and anomaly detection.</p>
       <p>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python Badge">
         <img src="https://img.shields.io/badge/Data%20Analysis-ffe199?style=for-the-badge" alt="Data Analysis Badge">
@@ -41,7 +41,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaraNaifAljohani/Educational-Institution-Database-Design-and-Management">⚙️ Educational Institution Database Design and Management</a></h3>
-      <p>This project entails creating a relational database for an educational institution to manage and track entities. The aim is to establish a robust system that ensures data integrity according to defined business rules.</p>
+      <p>Creating a relational database for an educational institution to manage and track entities. The aim is to establish a robust system that ensures data integrity according to defined business rules.</p>
       <p>
          <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Badge">
       </p>
