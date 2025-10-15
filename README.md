@@ -23,7 +23,7 @@
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/SaraNaifAljohani/Goodreads-Dashboard">📚 Goodreads Dashboard</a></h3>
-      <p>Developing a dynamic Power BI dashboard for comprehensive analysis of personal reading data. Metrics include book length, language distribution, genre popularity, and year-over-year habit shifts</p>
+      <p>Developing a dynamic Power BI dashboard for comprehensive analysis of personal reading data. Metrics include book length, language distribution, genre popularity, and shifts in reading habits.</p>
       <p>
         <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power%20bi&logoColor=black" alt="Power BI Badge">
       </p>
